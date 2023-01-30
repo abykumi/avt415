@@ -4,11 +4,12 @@
 html {font-size: 100%;} /*16px*/
 
 body {
-  background-color: #b09bbd;
+  background-color: #FFC0CB;
   color: #181354;
   margin: 0;
   padding: 50px;
   line-height: 1.75;
+  font-family: "Arial", Helvetica, sans-serif;
 }
 h1 {
 
