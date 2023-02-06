@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>P.P1.1: Idea</title>
+<link rel="stylesheet" href="main.css">
+</head>
+
+<body>
+<h1>Ideas</h1>
+	<h4>AVT 415 Spring 2023</h4>
+		<div class="column"><h2>Ideas</h2>
+			<ul>
+			<li>Online Flower Shop</li>
+      <p> A store where customers can build custom boquets or arrangements that can be directly shipped to the recipient. </p> 
+			<li>Birthday Party in a Box</li>
+      <p> A store where customers can buy themed decorations, materials, etc. for a party/ event. </p>
+			<li>Custom Water Bottle Store</li>
+      <p> A store where customers can buy waterbottles in different colors, themes, and shapes. They can even select custom stickers to add to the water bottle from different artists. </p>
+      </li>
+			</ul>
+		</div>
+
+</body>
+</html>
