@@ -16,6 +16,15 @@ h1 {
   margin-left: auto;
 }
 
+h3 {
+  font-family: "Source Sans Variable",Arial,sans-serif;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+
 p {
  font-family: Arial,sans-serif; 
   margin-top: auto;
