@@ -2,8 +2,16 @@
 /* CSS Document */
 
 body {
-  margin-top: 100px;
-  margin-bottom: 100px;
-  margin-right: 150px;
-  margin-left: 80px;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+h1 {
+  font-family: "Source Sans Variable",Arial,sans-serif;
+}
+
+p {
+ font-family: Arial,sans-serif; 
 }
