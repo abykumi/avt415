@@ -1,3 +1,18 @@
 @charset "UTF-8";
 /* CSS Document */
 
+h1 {
+  font-family: "Source Sans Variable",Arial,sans-serif;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+p {
+ font-family: Arial,sans-serif; 
+
+.content {
+  margin: auto;
+  padding: 10px;
+}
