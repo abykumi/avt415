@@ -13,6 +13,14 @@ p {
  font-family: Arial,sans-serif; 
 }
 
+h3 {
+ font-family: "Source Sans Variable",Arial,sans-serif; 
+}
+
+li {
+  font-family: "Source Sans Variable",Arial,sans-serif; 
+}
+
 .content {
   margin: auto;
   padding: 10px;
