@@ -15,3 +15,8 @@ h1 {
 p {
  font-family: Arial,sans-serif; 
 }
+
+mark.red {
+    color:#db301d;
+    background: none;
+}
