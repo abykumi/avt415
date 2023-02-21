@@ -2,23 +2,22 @@
 /* CSS Document */
 
 h1 {
-  font-family: "Source Sans Variable",Arial,sans-serif;
+  font-family: 'Staatliches', cursive;
 }
 
 p {
- font-family: Arial,sans-serif; 
+ font-family: 'Staatliches', cursive;
 }
 
 h3 {
- font-family: "Source Sans Variable",Arial,sans-serif; 
+ font-family: 'Staatliches', cursive;
 }
 
 ul li a {
-  font-family: "Source Sans Variable",Arial,sans-serif; 
+ font-family: 'Staatliches', cursive;
 }
 
 .content {
   margin: auto;
   padding: 10px;
-  max-width: 600px;
 }
