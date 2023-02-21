@@ -23,5 +23,6 @@ ul li a {
 
 .content {
   margin: auto;
-  padding: 10px;
+  padding: auto;
+  max-width: 500px;
 }
