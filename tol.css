@@ -26,3 +26,9 @@ mark.blue {
     color:#017698;
     background: none;
 }
+
+.content {
+  max-width: 500px;
+  margin: auto;
+  padding: 10px;
+}
