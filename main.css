@@ -2,7 +2,7 @@ html {font-size: 100%;} /*16px*/
 
 body {
   background-color: #FCF9F4;
-  margin: 0;
+  margin: auto;
   padding: 100px 100px 100px 100px;
   line-height: 1.75;
 }
