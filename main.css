@@ -10,27 +10,23 @@ body {
   margin: 0;
   padding: 50px;
   line-height: 1.75;
-  font-family: 'Open Sans', sans-serif;
-  color: white;
+  color: black;
 }
 
 h1 {
 
   font-size: 5em;
-  font-family: 'Open Sans', sans-serif;
-  color: white;
+  color: black;
 }
 
 h2 {font-size: 3em;
-font-family: 'Open Sans', sans-serif;
-color: white;
+color: black;
 
 }
 
 h4 {font-size: 1.5em;
 margin-top: 0;
-font-family: 'Open Sans', sans-serif;
-color: white; 
+color: black; 
 
 }
 
