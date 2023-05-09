@@ -11,19 +11,24 @@ body {
 h1 {
 font-size: 5em;
 padding:0;
+margin: 0;
+color: #E9A597;
 }
 
 h2 {
 font-size: 3em;
+color: #A9CECF;
 }
 
 h4 {
 font-size: 1.5em;
 margin-top: 0;
+color: #E9A597;
 }
 
 dt {
 font-size: 2em;
 font-weight: bold;
+color: #E9A597;
 }
 
